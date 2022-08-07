@@ -3,9 +3,9 @@
     padding: 0;
   }
   
-  body {
+  /* body {
     background-color: #020631;
-  }
+  } */
   
   .app {
     position: absolute;
@@ -54,6 +54,7 @@
     font-weight: 900;
     color: grey;
     margin-right: 5px;
+    
   }
   .app .todos {
     display: flex;
